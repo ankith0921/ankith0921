@@ -1,4 +1,3 @@
-```markdown
 # Hi I'm Ankith Kanthyappa Nataraj
 
 ### Aspiring AI Engineer | Machine Learning | Computer Vision | Large Language Models
@@ -76,4 +75,4 @@ I am a Computer Science graduate with a passion for building intelligent systems
 ---
 
 Always learning, building, and exploring the latest advancements in Artificial Intelligence.
-```
+

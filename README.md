@@ -49,9 +49,9 @@ I am a Computer Science graduate with a passion for building intelligent systems
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ankith0921&show_icons=true&theme=github_dark&hide_border=true)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=ankith0921&show_icons=true&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankith0921&layout=compact&theme=github_dark&hide_border=true)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankith0921&layout=compact&theme=github_dark)
 
 ---
 

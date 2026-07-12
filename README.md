@@ -1,52 +1,19 @@
 ```markdown
-# Hi 👋, I'm Ankith Kanthyappa Nataraj
+# Hi I'm Ankith Kanthyappa Nataraj
 
 ### Aspiring AI Engineer | Machine Learning | Computer Vision | Large Language Models
 
-Computer Science graduate passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Large Language Models. I enjoy designing and building intelligent applications that solve real-world problems. I am particularly interested in AI Agents, Retrieval-Augmented Generation (RAG), and developing practical AI solutions.
+I am a Computer Science graduate with a passion for building intelligent systems and practical AI solutions. My focus is on AI Agents, Retrieval-Augmented Generation (RAG), and creating tools that solve real-world problems.
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankith-kanthyappa-nataraj-9b7a6329b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankith0921@gmail.com)
 
 ---
-
-# 🚀 Featured Projects
-
-### 🤖 AI Interview Agent
-- AI-powered interview simulator using Google's Gemini API
-- Generates role-specific interview questions
-- Evaluates candidate responses using LLMs
-- Provides detailed feedback and scoring
-- Built with **Python**, **Streamlit**, and **Gemini API**
-
-### 📄 AI Resume Screening System
-- AI-based resume ranking using semantic similarity
-- Resume parsing and skill extraction
-- Candidate ranking against job descriptions
-- Built using **Sentence Transformers**, **Python**, and **Streamlit**
-
-### 🏨 Hotel Management System
-- Desktop application for hotel operations
-- Customer, room, employee, and billing management
-- Built with **Python Tkinter** and **MySQL**
-
----
-
-# 🌱 Currently Learning
-
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- MLOps
-- Large Language Model Applications
-
----
-
-# 💻 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -81,7 +48,7 @@ Computer Science graduate passionate about Artificial Intelligence, Machine Lear
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ankith0921&show_icons=true&theme=github_dark&hide_border=true)
 
@@ -89,7 +56,7 @@ Computer Science graduate passionate about Artificial Intelligence, Machine Lear
 
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
@@ -101,13 +68,12 @@ Computer Science graduate passionate about Artificial Intelligence, Machine Lear
 
 ---
 
-### 📫 Reach Me
+## Reach Me
 
-📧 **ankith0921@gmail.com**
-
-💼 **LinkedIn:** https://www.linkedin.com/in/ankith-kanthyappa-nataraj-9b7a6329b/
+- Email: **ankith0921@gmail.com**
+- LinkedIn: [ankith-kanthyappa-nataraj-9b7a6329b](https://www.linkedin.com/in/ankith-kanthyappa-nataraj-9b7a6329b/)
 
 ---
 
-⭐ *Always learning, building, and exploring the latest advancements in Artificial Intelligence.*
+Always learning, building, and exploring the latest advancements in Artificial Intelligence.
 ```

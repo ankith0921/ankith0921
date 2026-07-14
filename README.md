@@ -62,12 +62,5 @@ I am a Computer Science graduate with a passion for building intelligent systems
 
 ---
 
-## Reach Me
-
-- Email: **ankith0921@gmail.com**
-- LinkedIn: [ankith-kanthyappa-nataraj-9b7a6329b](https://www.linkedin.com/in/ankith-kanthyappa-nataraj-9b7a6329b/)
-
----
-
 Always learning, building, and exploring the latest advancements in Artificial Intelligence.
 

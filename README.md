@@ -45,8 +45,12 @@ I am a Computer Science graduate with a passion for building intelligent systems
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+## GitHub Stats
 
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankith0921&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankith0921&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"/>
+</p>
 
 ---
 

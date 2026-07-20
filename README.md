@@ -45,8 +45,6 @@ I am a Computer Science graduate with a passion for building intelligent systems
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
----
-
 ## Areas of Interest
 
 - Artificial Intelligence
